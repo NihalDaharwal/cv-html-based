@@ -1,2 +1,2 @@
 # cv-html-based
-This is a  html based cv.
+This is a initial html based cv.
